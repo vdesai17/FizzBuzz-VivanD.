@@ -26,4 +26,10 @@ public class Multiples {
         }
         return count;
     }
+
+    public static int multiples() {
+        return multiples(1000, 3, 5);
+    }
+
+
 }
